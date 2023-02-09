@@ -1,0 +1,2 @@
+# Seiwa
+Wordpress theme.
